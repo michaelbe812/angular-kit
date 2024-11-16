@@ -13,7 +13,7 @@ A set of 🔥 Angular tools.
 - [rx](./libs/rx/README.md) - reactive tools
 - [effects](https://github.com/mikelgo/angular-kit-effects) - modern util to manage subscriptions with zero-boilerplate code
 - [rx-hooks](./libs/rx-hooks/README.md) - reactive lifecycle hooks 
-- [rx-stateful](./libs/rx-stateful/README.md) - a powerful stateful wrapper for synchronous and asynchronous observables
+- [rx-stateful](./libs/rx-stateful/README.md) - a powerful stateful wrapper for synchronous and asynchronous observables. Hint: The project was moved to an own repository. [Check it out](https://github.com/michaelbe812/angular-kit-rx-stateful)
 - [immutable-helper](./libs/immutable-helper/README.md) - immutable helper functions to deal with objects and arrays
 
 ## Info
